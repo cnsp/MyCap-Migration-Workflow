@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T15:53:37.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="4ejaUNSoHKHEeZjwBXl2" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:24:04.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ZGEDXIbxZ9BuN07ir-Cd" version="24.5.4" type="github">
   <diagram name="Page-1" id="wkQGDYJjsccqzzj5Fohd">
-    <mxGraphModel dx="1338" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8OKDDaI05LE1G_95-_yh-1" value="Switching MyCap Classic to New MyCap App" style="shape=table;childLayout=tableLayout;startSize=50;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="50" y="80" width="1040" height="353" as="geometry" />
+          <mxGeometry x="40" y="80" width="1040" height="353" as="geometry" />
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-2" value="REDCap Admin" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-1" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-2" value="REDCap Admin" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-1" vertex="1">
           <mxGeometry y="50" width="1040" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-43" value="MyCap Changes Announcement" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-43" value="MyCap Changes Announcement" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
           <mxGeometry x="40" width="280" height="170" as="geometry">
             <mxRectangle width="280" height="170" as="alternateBounds" />
           </mxGeometry>
@@ -27,7 +27,7 @@
         <mxCell id="8OKDDaI05LE1G_95-_yh-19" value="Notify users " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8OKDDaI05LE1G_95-_yh-43" vertex="1">
           <mxGeometry x="128.25" y="60" width="83.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-3" value="Training" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-3" value="Training" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
           <mxGeometry x="320" width="170" height="170" as="geometry">
             <mxRectangle width="170" height="170" as="alternateBounds" />
           </mxGeometry>
@@ -35,7 +35,7 @@
         <mxCell id="8OKDDaI05LE1G_95-_yh-49" value="Conduct Training" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8OKDDaI05LE1G_95-_yh-3" vertex="1">
           <mxGeometry x="50" y="60" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-4" value="Project Migration" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-4" value="Project Migration" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
           <mxGeometry x="490" width="170" height="170" as="geometry">
             <mxRectangle width="170" height="170" as="alternateBounds" />
           </mxGeometry>
@@ -43,7 +43,7 @@
         <mxCell id="8OKDDaI05LE1G_95-_yh-29" value="Migrate all MyCap EM to Built-in" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8OKDDaI05LE1G_95-_yh-4" vertex="1">
           <mxGeometry x="40" y="60" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-5" value="Re-enroll Participants" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-5" value="Re-enroll Participants" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-2" vertex="1">
           <mxGeometry x="660" width="380" height="170" as="geometry">
             <mxRectangle width="380" height="170" as="alternateBounds" />
           </mxGeometry>
@@ -60,7 +60,7 @@
             <mxPoint x="550" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8OKDDaI05LE1G_95-_yh-6" value="REDCap User" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-1" vertex="1">
+        <mxCell id="8OKDDaI05LE1G_95-_yh-6" value="REDCap User" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-1" vertex="1">
           <mxGeometry y="220" width="1040" height="133" as="geometry" />
         </mxCell>
         <mxCell id="8OKDDaI05LE1G_95-_yh-44" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="8OKDDaI05LE1G_95-_yh-6" vertex="1">
